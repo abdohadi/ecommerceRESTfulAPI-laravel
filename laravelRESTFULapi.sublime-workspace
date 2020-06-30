@@ -1,0 +1,1172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chai",
+				"chair1"
+			],
+			[
+				"pro",
+				"profile-picture-form"
+			],
+			[
+				"butto",
+				"button-outline-secondary"
+			],
+			[
+				"button-ou",
+				"button-outline-primary"
+			],
+			[
+				"email",
+				"email_verified_at"
+			],
+			[
+				"get_cla",
+				"get_class_methods"
+			],
+			[
+				"paretn",
+				"parents"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"like",
+				"likeable_type"
+			],
+			[
+				"likeabl",
+				"likeable_id"
+			],
+			[
+				"acco",
+				"AccordionItem"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"bro",
+				"browserEnv"
+			],
+			[
+				"crated",
+				"created_at"
+			],
+			[
+				"text-gray-",
+				"text-gray-600"
+			],
+			[
+				"text-gra",
+				"text-gray-500"
+			],
+			[
+				"class",
+				"toggleClass"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"table-",
+				"table-bordered"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"quant",
+				"quantity"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"qua",
+				"quantity"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"prodct",
+				"productPriceEl"
+			],
+			[
+				"product",
+				"product-price"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"cateo",
+				"category_id"
+			],
+			[
+				"perm",
+				"permissions"
+			],
+			[
+				"role",
+				"roleName"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"attr",
+				"attributes_array"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"percen",
+				"percentages"
+			],
+			[
+				"perc",
+				"percentage"
+			],
+			[
+				"perca",
+				"percentage"
+			],
+			[
+				"total",
+				"totalIncome"
+			],
+			[
+				"targe",
+				"targetScoreInput"
+			],
+			[
+				"active",
+				"activePlayerNum"
+			],
+			[
+				"activepla",
+				"activePlayerNum"
+			],
+			[
+				"activeplaer",
+				"notActivePlayerNum"
+			],
+			[
+				"final",
+				"finalScores"
+			],
+			[
+				"curre",
+				"currentScore2"
+			],
+			[
+				"current",
+				"currentScore1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/DesignPatternChallenge/Pattern/Circle.php",
+			"settings":
+			{
+				"buffer_size": 159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/DesignPatternChallenge/Pattern/Shape.php",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remov e",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"new fil",
+				"File: New View into File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Channel"
+			],
+			[
+				"lara",
+				"Set Syntax: Laravel Blade"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/DesignPatternChallenge",
+		"/var/www/html/DesignPatternChallenge/Pattern",
+		"/media/usf/ABO HADI/me/W/Laravel/RESTFUL API/laravelRESTFULapi"
+	],
+	"file_history":
+	[
+		"/var/www/html/DesignPatternChallenge/Pattern/Shape.php",
+		"/home/abdo/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/abdo/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings",
+		"/media/usf/ABO HADI/me/W/Laravel/RESTFUL API/laravelRESTFULapi/vendor/mockery/mockery/library/Mockery/Matcher/Pattern.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/Circle.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/RedColorDecorator.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/GreenBorderDecorator.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/ShapeDecorator.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/Rectangle.php",
+		"/var/www/html/DesignPatternChallenge/DesignPatternChallenge.sublime-workspace",
+		"/var/www/html/DesignPatternChallenge/Pattern/Tests/PatternTest.php",
+		"/var/www/html/DesignPatternChallenge/Pattern/Dean.php",
+		"/media/usf/ABO HADI/me/cources/programming/Design Patterns/5. Structural Design Patterns/3. Composite/3. implementation/CompositeExample1/src/academy/learnprogramming/Company.java",
+		"/media/usf/ABO HADI/me/cources/programming/Design Patterns/5. Structural Design Patterns/3. Composite/3. implementation/CompositeExample1/src/academy/learnprogramming/Directory.java",
+		"/var/www/html/DesignPatternChallenge/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/var/www/network/resources/views/layouts/app.blade.php",
+		"/var/www/network/app/helpers/helpers.php",
+		"/var/www/network/resources/views/layouts/_nav.blade.php",
+		"/var/www/network/resources/views/posts/_post.blade.php",
+		"/var/www/network/resources/views/users/_people_you_may_know.blade.php",
+		"/var/www/network/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/network/app/User.php",
+		"/var/www/network/app/Http/Controllers/UsersController.php",
+		"/var/www/network/app/Http/Controllers/PostsController.php",
+		"/var/www/network/database/factories/UserFactory.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Adapter/Kindle.php",
+		"/media/usf/ABO HADI/me/W/Laravel/laravel-5.8/phpunit.xml",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/PingService.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/HelloWorldService.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/Service.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/PlainTextFormatter.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/HtmlFormatter.php",
+		"/media/usf/ABO HADI/me/W/PHP/DesignPatternsPHP/Structural/Bridge/Formatter.php",
+		"/var/www/network/tests/Feature/MangeUsersTest.php",
+		"/var/www/network/config/filesystems.php",
+		"/var/www/network/routes/web.php",
+		"/var/www/network/app/Http/Controllers/GroupsController.php",
+		"/var/www/network/config/app.php",
+		"/var/www/network/app/Providers/AppServiceProvider.php",
+		"/var/www/network/public/css/app.css",
+		"/var/www/network/resources/js/components/FormComponent.vue",
+		"/var/www/network/resources/views/users/edit_info.blade.php",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/app.js",
+		"/var/www/network/database/migrations/2019_09_12_134310_create_groups_table.php",
+		"/var/www/network/resources/views/home.blade.php",
+		"/var/www/network/resources/views/layouts/_right_side.blade.php",
+		"/var/www/network/vendor/fzaninotto/faker/src/Faker/Provider/Lorem.php",
+		"/var/www/network/resources/views/groups/_groups_you_may_join.blade.php",
+		"/var/www/network/composer.json",
+		"/var/www/network/resources/views/layouts/_left_side.blade.php",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/core/Errors.js",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/core/Form.js",
+		"/var/www/network/resources/js/core/Errors.js",
+		"/var/www/network/resources/lang/ar/site.php",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/views/projects.blade.php",
+		"/var/www/network/resources/js/core/Form.js",
+		"/var/www/network/resources/lang/ar/validation.php",
+		"/var/www/network/resources/js/bootstrap.js",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/bootstrap.js",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/views/Home.vue",
+		"/media/usf/ABO HADI/me/W/vue/laravel-vue-practice/resources/js/components/AddToStream.vue",
+		"/var/www/network/resources/views/users/show.blade.php",
+		"/var/www/network/resources/views/posts/_edit_post_modal.blade.php",
+		"/var/www/network/tests/Feature/ManagePostsTest.php",
+		"/var/www/network/resources/views/groups/_form.blade.php",
+		"/var/www/network/tests/Feature/ManageGroupsTest.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Lesson.php",
+		"/var/www/network/resources/views/posts/_share_post_modal.blade.php",
+		"/var/www/network/resources/views/posts/_shared_post.blade.php",
+		"/var/www/network/resources/sass/app.scss",
+		"/var/www/network/tests/Unit/PostTest.php",
+		"/var/www/network/app/Post.php",
+		"/var/www/network/resources/views/posts/_edit_post_form.blade.php",
+		"/var/www/network/resources/views/posts/_share_post_form.blade.php",
+		"/var/www/network/resources/views/posts/_edit_comment_modal.blade.php",
+		"/var/www/network/resources/js/app.js",
+		"/var/www/network/tests/Unit/UserTest.php",
+		"/var/www/network/database/migrations/2019_09_04_100211_create_posts_table.php",
+		"/var/www/network/database/migrations/2020_03_15_132044_create_shared_posts_table.php",
+		"/var/www/network/app/likeablity.php",
+		"/var/www/network/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php",
+		"/var/www/network/database/migrations/2020_03_15_131715_shared_posts.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/QueryFilter.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Tag.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/LessonFilters.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/User.php",
+		"/home/abdo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/abdo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Concerns/SupportsDefaultModels.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/View/Compilers/Concerns/CompilesHelpers.php",
+		"/opt/lampp/htdocs/laravelblog/app/User.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsTo.php",
+		"/opt/lampp/htdocs/laravelblog/app/Model.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOne.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/RoutesNotifications.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/HasDatabaseNotifications.php",
+		"/opt/lampp/htdocs/laravelblog/app/Post.php",
+		"/opt/lampp/htdocs/laravelblog/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php",
+		"/opt/lampp/htdocs/laravelblog/routes/web.php",
+		"/opt/lampp/htdocs/laravelblog/.env",
+		"/opt/lampp/htdocs/laravelblog/app/Providers/TelescopeServiceProvider.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Post.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Notifications/SubscriptionRenewalFaild.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/RoutesNotifications.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/vendor/laravel/framework/src/Illuminate/Notifications/Messages/SimpleMessage.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/routes/web.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/.env",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/resources/views/mail/post-created.blade.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Mail/Welcome.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Mail/PostCreated.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/app/Http/Controllers/PostsController.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/resources/views/posts/index.blade.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/config/mail.php",
+		"/media/usf/ABO HADI/me/W/Laravel/projects/laravelblog/storage/logs/laravel-2020-03-08.log",
+		"/var/www/network/tests/Unit/CommentTest.php",
+		"/var/www/network/storage/framework/views/06b2d6c7a0af30b8ba0836c02edf433a296f5221.php",
+		"/var/www/network/storage/framework/views/1a67832152c804db2d5f355b2bc6614930dfb641.php",
+		"/var/www/network/storage/framework/views/32d1b165f90e0f9fc7070ecaf32bf1e27a9bc0ce.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 140.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/DesignPatternChallenge/Pattern/Circle.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/DesignPatternChallenge/Pattern/Shape.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"SL.87.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravelRESTFULapi.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.js",
+				"resources/js/app.js"
+			],
+			[
+				"login.blad",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"testcas",
+				"vendor/phpunit/phpunit/src/Framework/TestCase.php"
+			],
+			[
+				"userscon",
+				"app/Http/Controllers/UsersController.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"_nave",
+				"resources/views/layouts/_nav.blade.php"
+			],
+			[
+				"_peo",
+				"resources/views/users/_people_you_may_know.blade.php"
+			],
+			[
+				"_post.",
+				"resources/views/posts/_post.blade.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"postscon",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"userfa",
+				"database/factories/UserFactory.php"
+			],
+			[
+				"userstes",
+				"tests/Feature/MangeUsersTest.php"
+			],
+			[
+				"userstabl",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"users/show",
+				"resources/views/users/show.blade.php"
+			],
+			[
+				"site",
+				"resources/lang/ar/site.php"
+			],
+			[
+				"users/sho",
+				"resources/views/users/show.blade.php"
+			],
+			[
+				"filesystem",
+				"config/filesystems.php"
+			],
+			[
+				"groupscon",
+				"app/Http/Controllers/GroupsController.php"
+			],
+			[
+				"postsco",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"config/app.",
+				"config/app.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"app.scs",
+				"resources/sass/app.scss"
+			],
+			[
+				"app.css",
+				"public/css/app.css"
+			],
+			[
+				"tailw",
+				"tailwind.js"
+			],
+			[
+				"",
+				"resources/views/users/edit_info.blade.php"
+			],
+			[
+				"groups",
+				"database/migrations/2019_09_12_134310_create_groups_table.php"
+			],
+			[
+				"Lorem",
+				"vendor/fzaninotto/faker/src/Faker/Provider/Lorem.php"
+			],
+			[
+				"_groups",
+				"resources/views/groups/_groups_you_may_join.blade.php"
+			],
+			[
+				"_right",
+				"resources/views/layouts/_right_side.blade.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"_nav",
+				"resources/views/layouts/_nav.blade.php"
+			],
+			[
+				"_left",
+				"resources/views/layouts/_left_side.blade.php"
+			],
+			[
+				"core/errors.js",
+				"resources/js/core/Errors.js"
+			],
+			[
+				"app.blade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"bootst",
+				"resources/js/bootstrap.js"
+			],
+			[
+				"boots",
+				"resources/js/bootstrap.js"
+			],
+			[
+				"userste",
+				"tests/Feature/MangeUsersTest.php"
+			],
+			[
+				"appserv",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"app.blad",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"peop",
+				"resources/views/users/_people_you_may_know.blade.php"
+			],
+			[
+				"usertabl",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"poststes",
+				"tests/Feature/ManagePostsTest.php"
+			],
+			[
+				"poststest",
+				"tests/Feature/ManagePostsTest.php"
+			],
+			[
+				"userstest",
+				"tests/Feature/MangeUsersTest.php"
+			],
+			[
+				"_form.bl",
+				"resources/views/groups/_form.blade.php"
+			],
+			[
+				"usersta",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"userstab",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"users_ta",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"groupste",
+				"tests/Feature/ManageGroupsTest.php"
+			],
+			[
+				"_share_pos",
+				"resources/views/posts/_share_post_modal.blade.php"
+			],
+			[
+				"_share",
+				"resources/views/posts/_shared_post.blade.php"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"_shared",
+				"resources/views/posts/_shared_post.blade.php"
+			],
+			[
+				"app.sc",
+				"resources/sass/app.scss"
+			],
+			[
+				"postsTEst",
+				"tests/Feature/ManagePostsTest.php"
+			],
+			[
+				"postTes",
+				"tests/Unit/PostTest.php"
+			],
+			[
+				"post",
+				"app/Post.php"
+			],
+			[
+				"app.scss",
+				"resources/sass/app.scss"
+			],
+			[
+				"_post_mod",
+				"resources/views/posts/_edit_post_modal.blade.php"
+			],
+			[
+				"_post",
+				"resources/views/posts/_post.blade.php"
+			],
+			[
+				"posttest",
+				"tests/Unit/PostTest.php"
+			],
+			[
+				"posts_tabl",
+				"database/migrations/2019_09_04_100211_create_posts_table.php"
+			],
+			[
+				"shared_post",
+				"database/migrations/2020_03_15_132044_create_shared_posts_table.php"
+			],
+			[
+				"userTe",
+				"tests/Unit/UserTest.php"
+			],
+			[
+				"relations/hasm",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasMany.php"
+			],
+			[
+				"shared_po",
+				"database/migrations/2020_03_15_131715_shared_posts.php"
+			],
+			[
+				"managePo",
+				"tests/Feature/ManagePostsTest.php"
+			],
+			[
+				"database/connec",
+				"vendor/laravel/framework/src/Illuminate/Database/Connection.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"hash",
+				"config/hashing.php"
+			],
+			[
+				"registercon",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"ill/helpers",
+				"vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php"
+			],
+			[
+				"illhelpers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/helpers.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"config/data",
+				"config/database.php"
+			],
+			[
+				"posts/ind",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"databaseN",
+				"vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php"
+			],
+			[
+				"simpleMessage",
+				"vendor/laravel/framework/src/Illuminate/Notifications/Messages/SimpleMessage.php"
+			],
+			[
+				"mailMess",
+				"vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php"
+			],
+			[
+				"posts/inde",
+				"resources/views/posts/index.blade.php"
+			],
+			[
+				"config/mail",
+				"config/mail.php"
+			],
+			[
+				"gro",
+				"app/Group.php"
+			],
+			[
+				"app.s",
+				"resources/sass/app.scss"
+			],
+			[
+				"commentte",
+				"tests/Unit/CommentTest.php"
+			],
+			[
+				"appservi",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"databasesee",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"database/seeder",
+				"vendor/laravel/framework/src/Illuminate/Database/Seeder.php"
+			],
+			[
+				"seedComm",
+				"vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php"
+			],
+			[
+				"posts/show",
+				"resources/views/posts/show.blade.php"
+			],
+			[
+				"commentsco",
+				"app/Http/Controllers/CommentsController.php"
+			],
+			[
+				"commenst",
+				"tests/Feature/ManageCommentsTest.php"
+			],
+			[
+				"_edit",
+				"resources/views/posts/_edit_post_form.blade.php"
+			],
+			[
+				"likes",
+				"tests/Feature/ManageLikesTest.php"
+			],
+			[
+				"manage",
+				"tests/Feature/ManagePostsTest.php"
+			],
+			[
+				"like",
+				"tests/Feature/ManageLikesTest.php"
+			],
+			[
+				"groupstest",
+				"tests/Feature/ManageGroupsTest.php"
+			],
+			[
+				"support/str",
+				"vendor/laravel/framework/src/Illuminate/Support/Str.php"
+			],
+			[
+				"lara",
+				"config/laravellocalization.php"
+			],
+			[
+				"testcase",
+				"tests/TestCase.php"
+			],
+			[
+				"commentsTest",
+				"tests/Feature/ManageCommentsTest.php"
+			],
+			[
+				"_edit_post",
+				"resources/views/posts/_edit_post_form.blade.php"
+			],
+			[
+				"_create_",
+				"resources/views/posts/_create_post_form.blade.php"
+			],
+			[
+				"helper",
+				"app/helpers.php"
+			],
+			[
+				"posts",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"_create_post",
+				"resources/views/posts/_create_post_form.blade.php"
+			],
+			[
+				"_edit_",
+				"resources/views/posts/_edit_post_form.blade.php"
+			],
+			[
+				"_edit_po",
+				"resources/views/posts/_edit_post_modal.blade.php"
+			],
+			[
+				"_form",
+				"resources/views/posts/_form.blade.php"
+			],
+			[
+				"laravel",
+				"config/laravellocalization.php"
+			],
+			[
+				"people",
+				"resources/views/users/_people_you_may_know.blade.php"
+			],
+			[
+				"righ_si",
+				"resources/views/layouts/_right_side.blade.php"
+			],
+			[
+				"groups_you",
+				"resources/views/groups/_groups_you_may_join.blade.php"
+			],
+			[
+				"_peop",
+				"resources/views/users/_people_you_may_know.blade.php"
+			],
+			[
+				"_nav.bl",
+				"resources/views/layouts/_nav.blade.php"
+			],
+			[
+				"pro",
+				"tests/Feature/ProphecyTest.php"
+			],
+			[
+				"mail/",
+				"vendor/laravel/framework/src/Illuminate/Mail/TransportManager.php"
+			],
+			[
+				"mail/tra",
+				"vendor/laravel/framework/src/Illuminate/Mail/TransportManager.php"
+			],
+			[
+				"expres",
+				"tests/Unit/ExpressionTest.php"
+			],
+			[
+				"testca",
+				"tests/TestCase.php"
+			],
+			[
+				"likea",
+				"app/likeablity.php"
+			],
+			[
+				"likefa",
+				"database/factories/LikeFactory.php"
+			],
+			[
+				"likestabl",
+				"database/migrations/2020_01_21_214125_create_likes_table.php"
+			],
+			[
+				"likescon",
+				"vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php"
+			],
+			[
+				"postscont",
+				"app/Http/Controllers/PostsController.php"
+			],
+			[
+				"managelikes",
+				"tests/Feature/ManageLikesTest.php"
+			],
+			[
+				"like.",
+				"app/Like.php"
+			],
+			[
+				"mangeposts",
+				"tests/Feature/ManagePostsTest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
